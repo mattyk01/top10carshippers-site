@@ -1,0 +1,22 @@
+# top10carshippers
+
+> Independent editorial site ranking U.S. car shipping companies. We name the companies worth a quote, flag the red flags, and explain how to vet any auto transport company. No paid placement.
+
+## Rankings
+- [Top 7 Car Shipping Companies in the USA](https://top10carshippers.com/top-7-car-shipping-companies): The main ranking; seven companies worth a quote.
+- [Best for First-Time Shippers](https://top10carshippers.com/best-for-first-time-shippers): Companies best suited to first-time vehicle shippers.
+- [Best for Cross-Country Moves](https://top10carshippers.com/best-for-cross-country): Companies built for coast-to-coast shipping.
+
+## Reviews
+- [RoadRunner Auto Transport Review](https://top10carshippers.com/roadrunner-auto-transport-review): Full review; rated 4.8 of 5.
+
+## How to vet a shipper
+- [Broker vs. Carrier](https://top10carshippers.com/broker-vs-carrier)
+- [The FMCSA Checklist](https://top10carshippers.com/fmcsa-checklist)
+- [How to Verify a Car Shipping Company](https://top10carshippers.com/verify-a-car-shipping-company)
+- [Common Auto Transport Scams](https://top10carshippers.com/common-auto-transport-scams)
+
+## Blog
+- [Why the Lowest Quote Is Almost Always a Trap](https://top10carshippers.com/blog/lowest-quote-trap)
+- [How Auto Transport Damage Claims Actually Work](https://top10carshippers.com/blog/damage-claims)
+- [Open vs. Enclosed Transport: When the Upgrade Is Worth It](https://top10carshippers.com/blog/open-vs-enclosed)
